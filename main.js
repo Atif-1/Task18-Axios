@@ -6,7 +6,7 @@ function getTodos() {
 	// 	method:'get',
 	// 	url:'https://jsonplaceholder.typicode.com/todos',//our backend that want to connect.
 	// 	params:{_limit:5}
-
+	
 	// }).then((result) => {
 	// 	showOutput(result);
 	// }).catch((err) => {
